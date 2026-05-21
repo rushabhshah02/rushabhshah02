@@ -1,4 +1,4 @@
-## 👋 Hey! I'm Rushabh Shah
+# 👋 Hey! I'm Rushabh Shah
 
 <!--
 **rushabhshah02/rushabhshah02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
